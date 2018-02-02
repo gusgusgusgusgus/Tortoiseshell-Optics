@@ -56,12 +56,18 @@ li {
   padding: 1rem 2rem;
 }
 
+.site-container .text-over-banner {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10rem -2rem 0 20rem;
+}
+
 .text-over-banner{
   background-color: white;
   display: inline-block;
-  margin: 10rem -2rem 0 0;
   padding: 1.5rem 5rem;
 }
+
 
 h1 {
   font-weight: bold;
